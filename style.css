@@ -169,7 +169,7 @@ span {
     flex-direction: row;
     place-content: center;
     margin: 0px 20px;
-    width: 100vw;
+    max-width: 100%;
   }
 
   .container {
@@ -179,6 +179,7 @@ span {
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
     padding: 30px;
     align-items: start;
+    
   }
 
   .recipe__image {
