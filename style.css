@@ -176,17 +176,19 @@ span {
     max-width: 700px;
     border-radius: 20px;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
-    padding: 30px;
+    padding: 20px;
     align-items: start;
     
   }
 
   .recipe__image {
-    border-radius: 15px;
+    border-radius: 10px;
   }
 
   .content {
     padding: 0;
     gap: 20px;
   }
+
+  
 }
